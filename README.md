@@ -15,11 +15,11 @@ Vincent is an attempt to implement "a neural algorithm of artistic style". A con
 * VGG16 file (https://drive.google.com/file/d/0Bz7KyqmuGsilT0J5dmRCM0ROVHc/view?usp=sharing)
 
 ### Installation
-pip install -r requirements.txt
+<code>pip install -r requirements.txt</code>
 
 ### Test 
 
-<code> python3 main.py --base_img_path img/dali/input_base_face.jpg --style_img_path img/dali/input_style_dali.jpg --result_prefix test --num_iter 1 </code>
+<code>python3 main.py --base_img_path img/dali/input_base_face.jpg --style_img_path img/dali/input_style_dali.jpg --result_prefix test --num_iter 1</code>
 
 ### Basic Usage
 
